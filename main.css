@@ -37,7 +37,9 @@ ul.posts {
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
-iframe { overflow:hidden; }
+
 ul.posts li {
     list-style: none;
 }
+
+iframe { overflow:hidden; }
