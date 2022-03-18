@@ -101,8 +101,6 @@ main p {
 }
 
 nav img {
-    position: relative;
-    display: inline-block;
     float: left;
     width: 100px;
     border-radius: 15px 50px 30px;
