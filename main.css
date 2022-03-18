@@ -102,7 +102,7 @@ main p {
 
 nav img {
     position: relative;
-    display: inline;
+    display: inline-block;
     width: 100px;
     border-radius: 15px 50px 30px;
 }
