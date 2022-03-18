@@ -101,6 +101,7 @@ main p {
 }
 
 nav img {
+    margin: 50px;
     float: left;
     width: 100px;
     border-radius: 15px 50px 30px;
