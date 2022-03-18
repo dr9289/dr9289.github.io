@@ -101,7 +101,7 @@ main p {
 }
 
 nav img {
-    position: fixed;
+    position: relative;
     display: inline;
     width: 100px;
     border-radius: 15px 50px 30px;
