@@ -68,7 +68,7 @@ h1 {
 
 nav ul li,
 footer ul li {
-    display: inline;
+    display: flex;
     list-style: none;
     margin-right: 20px;
 }
